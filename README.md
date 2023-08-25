@@ -1,10 +1,5 @@
-### Yo! 👋 What can i Learn from you today!
-
-<!--
-**MUHD-NAZEEF/MUHD-NAZEEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**Yo! 👋 What can i Learn from you today!
+**
 - 🔭 I’m currently working on improving my Data modelling and visualization.
 - 🌱 I’m currently learning Data Analtytics / Businesss Intelligence
 - 👯 I’m looking to collaborate on anything Educating
